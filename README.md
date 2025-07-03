@@ -36,7 +36,7 @@ Optional (for IaC):
 Bicep CLI
 Terraform
 
-🚀 Getting Started
+## 🚀 Getting Started
 bash
 Copy
 Edit
@@ -47,32 +47,27 @@ cd azure/
 # Start with a tutorial
 cd tutorials/azure-vm-deployment
 code .
-✅ Certifications Support
+
+## ✅ Certifications Support
 This repo can help you prepare for:
-
 AZ-900: Azure Fundamentals
-
 AZ-104: Azure Administrator Associate
-
 AZ-204: Azure Developer Associate
 
-📚 Resources
+## 📚 Resources
 Microsoft Learn for Azure
-
 Azure Architecture Center
-
 Azure Docs
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please see CONTRIBUTING.md and open a pull request.
 
-📬 Contact
+## 📬 Contact
 Have feedback, suggestions, or want to collaborate?
 
 Open an issue here
 
 Reach out on LinkedIn
-
 ⭐ Support
 If you found this repo helpful:
 
